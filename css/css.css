@@ -65,7 +65,7 @@ button{
     margin: 20px 10px;
     border-radius: 25px;
     font-weight: bold;
-    border: 2px solid:hsl(218, 88%, 38%) ;
+    border: 2px solid hsl(218, 88%, 38%) ;
     background:transparent;
     color: #fff;
     cursor: pointer;

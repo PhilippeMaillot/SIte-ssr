@@ -32,7 +32,7 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: url('./Bannière.png');
+    background: url('../image/premiere\ image.jpg');
     background-size:cover;
     color: #fff;
     padding: 40px;
