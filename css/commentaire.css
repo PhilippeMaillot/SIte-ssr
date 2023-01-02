@@ -14,7 +14,7 @@ body {
 
     height: 130vh;
 
-    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url("../images/premiere\ image.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url("../image/premiere\ image.jpg");
 
     background-size: cover;
 
